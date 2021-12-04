@@ -1,0 +1,135 @@
+footer{
+    background-color: #000000d7;
+    height: 60px;
+
+}
+.footert{
+    color: ghostwhite;
+    text-align: center;
+    justify-content: center;
+}
+img{
+ justify-content: center;
+ text-align: justify;
+ margin-left: auto;
+ margin-right: auto;
+}
+h1{
+    font-family: 'Jost', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    
+}
+h2{
+    text-align: center;
+    font-family: 'Jost', sans-serif;
+    font-weight: 400; 
+   
+}
+h3{
+    text-align: center;
+    font-family: 'Jost', sans-serif;
+    font-weight: 400; 
+}
+.logo{
+    text-align: center;
+    
+}
+.asiantekst{
+    /*
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+    margin-bottom: 30px;
+    margin-top: 30px;
+*/
+    text-align: center;
+    font-family: 'Jost', sans-serif;
+    font-weight: 300;
+    font-size: 1.4rem;
+    justify-content: center;
+
+}
+.mashup{
+    padding-bottom: 2rem;
+}
+.blue{
+    background-color: #569bc8;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    margin-top: 1.2rem;
+}
+.galleri{
+    color: white;
+    font-family: 'Jost', sans-serif;
+    font-weight: 400;
+    font-size: 60px;
+    
+
+}
+.indtast{
+    color: white;
+    font-family: 'Jost', sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+}
+.email{
+    height: 3rem;
+    width: 20rem;
+    font-family: 'Jost', sans-serif;
+    font-weight: 300;
+}
+.tilmeld{
+    height: 3rem;
+    width: 7rem;
+    font-family: 'Jost', sans-serif;
+    font-weight: 400;
+
+}
+.autmn{
+    font-family: 'Jost', sans-serif;
+    font-weight: 400;
+    size: 30px;
+}
+p{
+    font-family: 'Jost', sans-serif;
+    font-weight: 300;
+}
+/*
+@media screen and (min-width: 400px){
+    .asiantekst{
+       font-size: 15px;
+        
+
+    
+    }
+}
+*/
+.klik{
+    text-decoration: none;
+    font-family: 'Jost', sans-serif;
+    font-weight: 300;
+    font-size: 2.3rem;
+    
+
+}
+.her{
+    font-family: 'Jost', sans-serif;
+    font-weight: 300;
+    font-size: 2.3rem;
+    margin-top: 0.5rem;
+
+}
+.johnny{
+    padding-top: 2rem;
+    font-family: 'Jost', sans-serif;
+    font-weight: 300;
+    font-size: 1.1rem;
+}
+.kunstner{
+    padding-top: 1.5rem;
+}
